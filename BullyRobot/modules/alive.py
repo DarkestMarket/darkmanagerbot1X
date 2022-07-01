@@ -11,8 +11,8 @@ from BullyRobot import telethn as tbot
 
 
 PHOTO = [
-    "https://te.legra.ph/file/380118372c4f02dc3fef6.jpg",
-    "https://te.legra.ph/file/380118372c4f02dc3fef6.jpg",
+    "https://te.legra.ph/file/bd8c1e1c0376d818c13b5.jpg",
+    "https://te.legra.ph/file/bd8c1e1c0376d818c13b5.jpg",
 ]
 
 @register(pattern=("/alive"))

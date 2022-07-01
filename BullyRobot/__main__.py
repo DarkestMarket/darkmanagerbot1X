@@ -682,7 +682,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.send_photo(f"@{SUPPORT_CHAT}", "https://te.legra.ph/file/380118372c4f02dc3fef6.jpg", caption="𝙱𝚄𝙻𝙻𝚈 ✘ ʀᴏʙᴏᴛ ɪs ᴀʟɪᴠᴇ !\n\nᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ 𝙱𝚄𝙻𝙻𝚈 🥀")
+            dispatcher.bot.send_photo(f"@{SUPPORT_CHAT}", "https://te.legra.ph/file/bd8c1e1c0376d818c13b5.jpg", caption="Dark Controller ɪs ᴀʟɪᴠᴇ !\n\nᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ Suryansh 🥀")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"

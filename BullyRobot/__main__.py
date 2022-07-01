@@ -93,7 +93,7 @@ buttons = [
         InlineKeyboardButton(
             text="💞 ᴀʙᴏᴜᴛ ᴍᴇ​​ 💞", callback_data="fallen_"),
         InlineKeyboardButton(
-            text="🙄 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🙄", callback_data="source_"),
+            text="ℹ️ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ℹ", callback_data="source_"),
     ],
     [
         InlineKeyboardButton(
